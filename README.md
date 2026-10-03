@@ -26,7 +26,7 @@ Supported: **Windows 10/11, Python 3.8 – 3.13** (64-bit recommended).
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/py2win.git
+git clone https://github.com/atharvaphadnis-ai/py2win.git
 cd py2win
 pip install .
 ```
